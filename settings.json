@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "drchomu.mcsh.io",
+    "ip": "163.5.201.9",
     "port": 12768,
     "version": "1.20.1",
     "try-creative": false
